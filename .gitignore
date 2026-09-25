@@ -1,0 +1,9 @@
+﻿venv/
+env/
+*.csv
+*.zip
+data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+artifacts/
